@@ -45,7 +45,7 @@ public class IMC {
             situacao = "Obesidade I";
         } else 
                 if (imc >= 35 && imc <= 39.99) {
-            situacao = "Obesidade II (severa)";
+            situacao = "Obesidade II (SEVERA)";
         } else {
             situacao = "Obesidade III (mórbida)";
         }
